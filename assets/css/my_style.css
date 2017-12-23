@@ -1,0 +1,1668 @@
+marquee{
+    width: 100%;
+    margin-right: 0;
+    padding-right: 0;
+    background: #1BBD36;
+    color:  #fff;
+    padding: 10px;
+    font-weight: bold;
+}
+.archieve h4{
+    border-bottom: 1px solid #f5f5f5;
+    padding: 5px 0px;
+    color: #003399;
+    text-transform: uppercase;
+}
+.categories h4{
+    /*border-bottom: 1px solid #f5f5f5;*/
+    padding: 5px 0px;
+    color: #003399;
+    text-transform: uppercase;
+}
+.cat-board{
+    background:  #f5f5f5;
+    color: #333;
+    border-radius: 4px;
+    padding-bottom :40px;
+}
+.cat-content{
+    margin: 10px 10px 0px 10px;
+    height: 100px;
+    background: #fff;
+}
+.cat-content:hover{
+    background: #f1f1f1;
+}
+.course-content{
+    background:  #3333ff;
+    padding: 8px;
+}
+.course-content h4{
+    font-size: 14px;
+    text-align: center;
+    
+}
+.course-content a{
+    color: #fff;
+    background: #e74c3c;
+}
+.course-content a:hover{
+    background: #000;
+}
+.top_content{
+    background: #fff;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+.top_content label{
+    margin-bottom: 20px;
+}
+.content_reg{
+    background: #fff;
+    padding: 0px 20px 10px 20px;
+    border-radius: 20px;
+}
+.content_reg h4{
+    color: red;
+    text-align: center;
+}
+.train_outline{
+    background: #fff;
+    border: 1px solid #f5f5f5;
+    border-radius: 0 0 10px 10px;
+}
+.train_outline h4{
+    padding: 30px 0px 10px 20px;
+}
+.train_outline p{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+}
+.train_outline ul li{
+    list-style: none;
+    padding-left: 20px;
+    text-align: justify;
+}
+.c_content{
+     padding: 10px 20px;
+     margin-top: 1em;
+     /*background: #9999ff;*/
+     border-radius: 5px;
+}
+.c_content h4{
+     text-align: center;
+     color:  #3300ff;
+     font-weight: bold;
+}
+
+.c_content1 h4{
+    padding: 20px 20px 0px 20px;
+    color: #003399;
+    font-weight: bold;
+}
+.c_content1 a{
+    color: #1BBD36;
+    padding-left: 20px; 
+}
+.c_content1 a:hover{
+    color: #cc0000;
+}
+/*.pay_content{
+    text-align: center;
+    padding: 20px;
+}
+.pay_content h4{
+    color: #00cc00;
+    
+}*/
+.contact_content{
+    text-align: center;
+    padding: 20px;
+}
+.contact_content h3{
+    color: #003399;
+    text-transform: uppercase;
+}
+.contact_content p{
+    color: #00cc00;
+}
+.contact_content a:hover{
+    color: #1BBD36;
+}
+.lower_content{
+    background: #003399;
+    border-radius: 20px;
+}
+.course-content h4{
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+}
+.courseTitle h4 a{
+    color:  #cc0000;
+    font-size: 14px;
+}
+.courseTitle h4 a:hover{
+    color:  #00cc00;
+}
+article{
+    color: #cc0000;
+    /*font-weight: bold;*/
+}
+article span a{
+    color: #00cc00; 
+    font-size: 13px;
+}
+article span a:hover{
+    color: #cc0000; 
+}
+.archieve h3{
+    color: #003399;
+    /*border-bottom: 1px solid #003399;*/
+    /*text-align: center;*/
+}
+.categories h3{
+    color: #003399;
+}
+.instructor_info{
+    text-align: center;
+    border: 1px solid #f3f3f3;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+/*.c_aside{
+    border: 10px solid #f5f5f5;
+}*/
+.instructor_info img{
+    
+    text-align: center;
+    /*width: 80%;*/
+    height: 180px;
+    border-radius: 200px;
+    padding: 10px;
+}
+.instructor_info a{
+    color: #003399;
+    font-size: 15px;
+    text-align: center;
+}
+.instructor_info p{
+    color: #333;
+    font-size: 13px;
+}
+.course_summary{
+    background: none repeat scroll 0 0 #F6F8FF;
+    color: #333;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.course_summary p{
+    color: #3E4FA1;
+    font-size: 13px;
+}
+.search{
+    margin-left: 0;
+    padding-left: 0;
+}
+.breadcrumb{
+    width: 100%;
+    height: 40px;
+}
+/*............Registration Form CSS............*/
+.registration-content{
+    padding: 10px;
+    font-size: 13px;
+}
+.registration-content h3{
+    color: #00a651;
+    padding: 5px 40px 0 0px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+.registration-content p{
+    color: #cc0000;
+    font-size: 14px;
+    
+}
+.registration-content img{
+    width: 100%;
+    margin-top: 20px;
+}
+.registration-content .option{
+    width: 100%;
+    font-size: 10px;
+}
+#fileForm{
+    padding: 30px;
+    background: #fbfbfb;
+}
+#fileForm h5{
+    color: #3E4FA1;
+    font-size: 13px;
+}
+#fileForm .input-group{
+    margin-bottom: 25px;
+}
+#fileForm .input-group input{
+    height: 44px;
+}
+#fileForm .input-group i{
+    width: 20px;
+}
+#fileForm .input-group select{
+    height: 44px;
+}
+.reg_btn{
+    width: 120px;
+    background: #00cc00;
+    font-weight: bold;
+}
+.reg_btn:hover{
+    
+    background: #003399;
+}
+#fileForm option{
+    font-size: 13px;
+    color: #3E4FA1;
+}
+.instructor_content{
+    background: #F6F8FF;
+    color:#3E4FA1;
+    margin-bottom: .2em;
+    font-size: 13px;
+    /*padding-bottom: 20px;*/
+}
+.instructor_profile{
+    padding-top: 20px;
+}
+.instructor_intro h5{
+    color: #003399;
+    font-weight: bold;
+    /*color: #003399;*/
+    padding-top: 40px;
+    text-transform: uppercase;
+}
+.instructor_profile img{
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 5%;
+    border: 1px solid #F6F8FF;
+    background: #fff;
+    /*float: right;*/
+}
+.instructor_intro a{
+    margin-top: 50px;
+    
+}
+.instructor_intro p a{
+    color: #00cc00;
+}
+.instructor_intro p a:hover{
+    color: #00cccc;
+    background: none;
+}
+.instructor_intro a:hover{
+    background: #003399;
+    color: #fff;
+}
+
+.instructor_status h3{
+    /*text-align: center;*/
+    color: #003399;
+    padding: 10px 10px 5px 0px;
+    border-bottom: 1px dotted #003399;
+    /*padding-right: 0;*/
+}
+.instructor_profile p{
+    color: #3E4FA1;
+    padding: 0;
+}
+.instructor_status h5{
+    font-weight: bold;
+    color: #003399;
+    padding-top: 10px;
+}
+.instructor_status{
+    /*text-align: center;*/
+    background: #F6F8FF;
+}
+.instructor_status p a{
+    color: #00cc00;
+}
+.instructor_status p a:hover{
+    color: #00cccc;
+}
+/*..........Footer Code Here.............*/
+
+.office_add{
+    color: #000333;
+    /*text-align: center;*/
+    /*padding-left: 50px;*/
+}
+.office_add h4{
+    color: #000333;
+    /*border-bottom: 1px dotted #000333;*/
+    padding: 5px 0px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.office_add p{
+    color: #000333;
+}
+.office_add a{
+    color: #000333;
+}
+.office_add a:hover{
+    color: #d0d0d0;
+}
+.quick_reg{
+    background: transparent;
+    color: #000333;
+    /*padding-left: 10px;*/
+    text-align: right;
+}
+.quick_reg label{
+    color: #000333;
+    font-weight: 300;
+}
+.quick_reg h4{
+    color: #000333;
+    font-weight: 400;
+    padding: 5px 10px;
+}
+.quick_reg input{
+    margin-bottom: 1em;
+    background: #f1f1f1;
+    border: none;
+    color: #000333;
+}
+.quick_reg select{
+    /*margin-bottom: 1em;*/
+    background: #f1f1f1;
+    border: none;
+    color: #000333;
+}
+.quick_reg option{
+    /*margin-bottom: 1em;*/
+    background: #f1f1f1;
+    border: none;
+    color: #000333;
+}
+#pagination{
+    margin-top: 100px;
+}
+/*.category_list li{
+    background: red;
+}
+.category_list li a{
+    padding: 5px 15px;
+}*/
+.blog_title:hover{
+    color: #cc0000;
+}
+.tt_uppercase{
+    text-transform: uppercase;
+}
+/*..........User Sign Up pagse CSS............*/
+
+.sign_up_wrap{
+    background: url('../images/bg3.jpg') no-repeat center fixed;
+    padding: 0;
+    margin: 0;
+}
+.user_sign_up_wrap{
+    background: #fff;
+    margin: 30px 0;
+    padding: 20px;
+    border-radius: 5px;
+    
+}
+.user_sign_up_wrap .reg_nav h3{
+    color: #1BBD36;
+    font-weight: 500;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    margin: 40px 0 30px 0;
+}
+.reg_nav .nav-tabs{
+    margin-bottom: 40px;
+    position: relative;
+    display: block;
+    border-bottom: 1px solid #e3e3e3;
+}
+.reg_nav{
+    padding: 0;
+    margin: 0;
+}
+.reg_nav ul{
+    text-align: center;
+}
+.reg_nav ul li a{
+    padding: 10px 15px;
+    color: #0a0a0a;
+    text-transform: uppercase;
+    font-weight: 500;
+    margin-right: 0;
+    font-size: 14px;
+    border-radius: 0;
+}
+.reg_nav ul li a:hover{
+    background-color: #fff;
+    color: #00a651;
+}
+.reg_nav ul li.active a{
+    color: #00a651;
+    background: #fff;
+}
+.user_sign_up_wrap .tab-content{
+    margin: 30px 0 0 0;
+}
+.reg_form input{
+    height: 44px;
+    margin: 30px 0;
+    padding: 0 10px;
+}
+.reg_form{
+    margin: 40px 30px; 
+}
+.reg_form select{
+    height: 44px;
+}
+.reg_form .btn{
+    padding: 8px 30px;
+    display: block;
+    font-size: 18px;
+    border-radius: 4px;
+    background-color: #1BBD36;
+    text-align: center;
+    margin: 55px 0 10px 0;
+    width: 100%;
+}
+
+.reg_form .btn:hover{
+    text-decoration: none;
+    color: #fff;
+    background: #1BBD36;
+}
+.user_reg_opotion .checkbox label input[type='checkbox']{
+    width: 0;
+    height: 0;
+}
+.user_reg_opotion label{
+    color: #1BBD36;
+}
+/*...........Login pages CSS ............*/
+
+.login_wrap{
+    background: url('../images/bg3.jpg') no-repeat center center fixed;
+}
+.login_wrap_2{
+    margin: 30px 0;
+    background: #fff;
+    padding: 0;
+    border-radius: 5px;
+}
+.iconmelon{
+    text-align: center;
+    padding: 30px;
+    
+}
+.iconmelon img{
+    border-radius: 100%;
+}
+.user_login{
+    background: #fff;
+    padding: 30px;
+    /*border: 1px solid #ccc;*/
+}
+.login_wrap_2 h3{
+    margin: 0;
+    text-align: center;
+    color: #00a651;
+    font-weight: 700;
+    background: #f7f7f7;
+    padding: 10px;
+    border: 1px solid #f3f3f3;
+}
+.user_login .input-group{
+    margin-bottom: 25px;
+}
+.user_login input{
+    height: 40px;
+}
+.user_login .btn{
+    margin-top: 10px;
+    padding: 5px 15px;
+}
+.user_login_option{
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+.user_login_option label{
+    color: #b9b9b9;
+}
+.user_login_option .pull-right{
+    margin-top: 10px;
+}
+.user_login_option .pull-right a{
+    color: #e74c3c;
+}
+
+.checkbox label input[type="checkbox"]{
+    width: 0;
+    height: 0;
+}
+.login_wrap_2 .btn-primary{
+    padding: 15px 30px;
+    display: block;
+    font-size: 18px;
+    border-radius: 4px;
+    background-color: #0072bc;
+    text-align: center;
+    margin: 0;
+    font-weight: 500;
+    border-radius: 0px 0px 5px 5px;
+}
+.login_wrap_2 .btn-primary:hover{
+    background-color: #0072bc;
+    color: #fff;
+}
+.login_wrap_2 .user_login .login_nav .nav-tabs li a{
+    text-transform: uppercase;
+}
+.login_wrap_2 .user_login .login_nav .nav-tabs li a:hover{
+    color: #00a651;
+    background: #fff;
+}
+/*..........Blog Details pages..........*/
+
+
+.comments_wrap{
+    padding: 0px;
+    margin-top: 50px;
+    
+}
+.view_comments{
+    padding: 0;
+    margin-bottom: 50px;
+}
+.view_comments h5{
+    color: #00a651;
+    font-size: 20px;
+}
+.blog-content .comments_wrap h4{
+    color: #00a651;
+    font-size: 20px; 
+}
+.blog-content .comments_wrap textarea{
+    width: 60%;
+    margin: 20px 0px 10px 0px;
+}
+.blog-content .comments_wrap p{
+    font-size: 16px;
+}
+.blog-content .comments_wrap p a{
+    color: #e74c3c;
+}
+.blog-content .comments_wrap p a:hover{
+    color: #1BBD36;
+}
+.post_comments{
+    padding: 0;
+}
+.comments_wrap .view_comments_wrap{
+    background: #fff;
+    border-bottom: 1px solid #f3f3f3;
+}
+/*.comments_wrap .view_comments_wrap:last-child{
+    border-bottom: 0;
+}*/
+.view_comments_wrap .comment_img{
+    background: #fff;
+    padding: 0;
+    margin: 0;
+}
+.view_comments_wrap .comment_img img{
+    /*background: #fff;*/
+    padding-top: 10px;
+    padding-left: 0;
+}
+.view_comments_wrap .comments_body{
+    /*background: #fff;*/
+    margin: 0;
+    padding: 0;
+    padding-left: 13px;
+    padding-top: 2px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+.comments_wrap .view_comments_wrap .comments_body span{
+    color: #333;
+    margin: 0;
+    font-size: 12px;
+    
+}
+.view_comments_wrap span b{
+    color: #003399;
+}
+.color_green{
+    color: green;
+}
+.color_green_2{
+    color: #00a651;
+}
+.scheme_color{
+    color: #e74c3c;
+}
+/*......................Footer Part CSS...........*/
+
+footer .footer{
+    background: #222;
+    color: #000;
+    padding: 30px 0px;
+}
+.footer_section{
+    padding: 30px 0px 50px 0px;
+}
+.media_icon h3{
+    color: #e74c3c;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 500;
+}
+.footer h4{
+    text-transform: uppercase;
+    color: #1BBD36;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 1.5;
+    position: relative;
+    margin-bottom: 30px;
+}
+.footer h4:after{
+    position: absolute;
+    content: "";
+    border-bottom: 1px solid #aaa;
+    left: 0;
+    width: 15%;
+    top: 30px;
+}
+.office-address, .media_icon, .job_seeker, .services_section, .quick-register{
+    padding: 0;
+}
+.quick-register h4{
+    color: #e74c3c;
+}
+.footer_section ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.footer_section ul li{
+    color: #b9b9b9;
+    padding: 2px 0;
+}
+.footer_section ul li a{
+    color: #b9b9b9;
+}
+.footer_section ul li a:hover{
+    color: #1BBD36;
+}
+.footer_section .media_icon ul li{
+    float: left;
+    padding: 5px;
+}
+.color_facebook{
+    color: #3b5998;
+}
+.color_twitter{
+    color: #0084b4;
+}
+.color_youtube{
+    color: #c4302b;
+}
+.color_goolge_plus{
+    color: #d34836;
+}
+.color_linkin{
+    color: #0077B5;
+}
+.m_top_30{
+    margin-top: 30px;
+}
+.quick-register input{
+    margin-bottom: 15px;
+    height: 35px;
+}
+/*........Course Wrap CSS............*/
+
+.course_wrap{
+    background: #fff;
+    margin-bottom: 15px;
+    padding: 15px;
+    /*padding-top: 0px;*/
+    border-radius: 0 0 5px 5px;
+}
+.course_info_wrap{
+    background: #fff;
+    border: 1px solid #f3f3f3;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+.course_info_wrap:hover{
+    background: #f5f5f5;
+}
+.course_title{
+    padding: 0;
+}
+.course_title_2{
+    padding: 0;
+}
+.course_title h4 a:hover{
+    color: #1BBD36;
+    
+}
+.course_title h4 a{
+    color: #e74c3c;
+    font-size: 15px;
+}
+aside{
+    /*background: #fff;*/
+    margin: 0;
+    padding-left: 0px;
+    margin-bottom: 15px;
+}
+.left_sidebar{
+    background: #fff;
+    padding: 30px 10px;
+    border-radius: 0 0 5px 5px;
+}
+.home_link{
+    padding: 15px;
+    background: #070707;
+    opacity: .7;
+    border-left: 5px solid #00a651;
+}
+.home_link a{
+    color: #fff;
+    text-transform: uppercase;
+}
+.course_category{
+    margin-bottom: 30px;
+}
+.course_category h4{
+    color: #1BBD36;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.left_sidebar .categories h4{
+    color: #1BBD36;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.course_category ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.course_category ul li a{
+    color: #0072bc;
+    font-size: 13px;
+    padding: 5px;
+}
+.course_category ul li a:hover{
+    color: #1BBD36;
+    border-left: 3px solid #00a651;
+}
+.view_course{
+    background: #003399;
+    /*margin-bottom: 15px;*/
+}
+.view_course h3{
+    color: #fff;
+    margin: 0;
+    padding: 17px;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+/*.............Home Pages Services CSS..........*/
+
+#services{
+    background: #fff;
+}
+.our_services{
+    padding: 20px 10px;
+}
+.our_services h3{
+    text-align: center;
+    color: #1BBD36;
+    font-size: 24px;
+    margin-bottom: 20px;
+    line-height: 1.85;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.our_services .row{
+    padding: 0;
+}
+.our_services .single_item{
+    /*padding: 0;*/
+    text-align: justify;
+}
+.our_services .single_item i{
+    background: #44b0e3;
+    border-bottom: 2px solid #0072bc;
+    text-align: center;
+    padding: 10px 10px;
+    color: #fff;
+    font-size: 20px;
+    margin-right: 10px;
+    width: 35px;
+}
+.our_services .single_item h4{
+    position: relative;
+}
+.our_services .single_item h4:after{
+    position: absolute;
+    content: "";
+    width: 80%;
+    border-bottom: 2px solid #f1f1f1;
+    left: 35px;
+    top: 40px;
+}
+.recents_courses{
+    background: #fbfbfb;
+    border-top: 2px solid #f3f3f3;
+    border-bottom: 2px solid #f3f3f3;
+}
+/*..........Portfolio Section CSS..........*/
+
+#portfolio{
+    background: #fff;
+    padding: 30px 0;
+}
+.portfolio_wrapper{
+    padding: 0;
+    
+}
+.portfolio_wrapper h3{
+    margin-bottom: 30px;
+    color: #00a651;
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.85px;
+    /*text-transform: uppercase;*/
+}
+.thumbnail{
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+}
+.thumbnail img{
+    transition: all 0.5s ease; 
+}
+.thumbnail img:hover{
+    transform: scale(1.3);
+}
+
+/*............Carousel CSS.............*/
+
+.p_0{
+    padding: 0;
+}
+
+/*.......Category Board............*/
+
+.job_category_board{
+    margin: 15px 0 0 0;
+    background: #fff;
+    padding: 50px 50px 20px;
+    /*overflow: visible;*/
+    /*display: inline-block;*/
+}
+.category_list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.category_items{
+    background-color: #fff;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 10px 30px 10px;
+}
+.category_items a{
+    color: #5d5d5d;
+}
+.category_items a:hover{
+    text-decoration: none;
+    color: #1BBD36;
+}
+.job_adds{
+    background: #fff;
+}
+.jobs-adds .nav-tabs>li>a {
+	margin-right: 0;
+}
+.job_board{
+    margin: 30px 0 0 0;
+    background: #fff;
+    padding-top: 20px;
+}
+.job_items{
+    padding: 15px 15px 15px 15px;
+    /*overflow: hidden;*/
+    position: relative;
+    border: 1px solid #f3f3f3;
+    margin: 18px 0;
+    /*border-radius: 2px;*/
+    background: #fff;
+    webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.tab-content{
+    background: #fff;
+}
+.nav-tabs{
+    margin: 0;
+    padding: 0;
+}
+.nav-tabs li a{
+    color: #000;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.nav-tabs li a:hover{
+    color: #1BBD36;
+}
+.nav-tabs li.active a{
+    color: #1BBD36;
+}
+.item-image a img{
+    /*border: 1px solid #f3f3f3;*/
+}
+.item-image{
+    border: 1px solid #f3f3f3;
+    padding: 12px 0;
+    margin-top: 5px;
+}
+.job_info h4{
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.job_info h5{
+    font-size: 16px;
+}
+.job_info h4 a{
+    color: #0000a8;
+    font-weight: 600;
+}
+.job_info h5 a{
+    color: #1BBD36;
+}
+.job_info h5 a:hover{
+    color: #0000a8;
+    text-decoration: none;
+}
+.job_info h4 a:hover{
+    color: #1BBD36;
+    text-decoration: none;
+}
+.deadline p{
+    margin-top: 80px;
+    color: #e74c3c;
+}
+.add_image_2{
+    padding: 0;
+    margin: 15px 0 0 0;
+}
+.add_image_2 img{
+    height: 100px;
+    width: 100%;
+    margin-bottom: 15px;
+}
+/*..........Top Section...........*/
+
+.top_section{
+    background: #fff;
+    margin-top: 30px;
+    padding: 50px 20px;
+}
+.top_section .row{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.live_job img{
+    color: #1BBD36;
+}
+.live_job h1{
+    color: #1BBD36;
+    font-weight: 800;
+}
+.live_job h4{
+    color: #000;
+    font-size: 18px;
+    line-height: 1.3;
+}
+/*.............Adding Part...........*/
+
+.add_image{
+    margin: 15px 0 0 0;
+    padding: 0;
+    text-align: center;
+}
+
+.add_image img{
+    margin-left: 15%;
+}
+/*...........Banner slider css.......*/
+section{
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    width: 100%;
+}
+#slider{
+    height: 500px;
+}
+
+#job_list_slider{
+    background:url(../images/bg3.jpg) no-repeat center center fixed;
+    height: 500px;
+    /*filter:blur(3px);*/
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   /*opacity: .7;*/
+   text-align: center;
+}
+#job_list_slider h1{
+    margin-top: 130px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 700;
+    line-height: 1.3;
+}
+#job_list_slider h4{
+    color: #333;
+    font-size: 16px;
+    /*text-transform: uppercase;*/
+    margin: 20px 0 50px 0;
+}
+.slider_form{
+    background-color: rgba(0, 0, 0, 0.14);
+    padding: 8px;
+    max-width: 750px;
+    margin: 12px auto;
+    border-radius: 5px;
+}
+.slider_form input{
+    margin-left: 0%;
+    width: 100%;
+    padding: 15px;
+    border: none;
+    box-shadow: none;
+}
+/*.form-control{
+    box-shadow: none;
+    -webkit-box-shadow: none;
+    border: 1px solid #e3e3e3;
+    height: 44px;
+    color: #000;
+}*/
+.search_area{
+    text-align: right;
+    background: #fff;
+    margin-right: 0;
+    margin-left: 0;
+}
+.slider_form form{
+    border-radius: 4px;
+    background-color: #fff;
+    position: relative;
+}
+
+.category_title{
+    background: #fff;
+    margin-left: 0;
+    /*padding: 20px 0px;*/
+    /*border-left: 5px solid #e6e6e6;*/
+}
+.category_title select{
+    margin-left: 0;
+    width: 30%;
+    float: left;
+    border: none;
+}
+.category_title option{
+    width: 100%;
+    padding: 10px 5px;
+}
+
+.search_btn button{
+    text-align: left;
+    border-radius: 0;
+    width: 11.50%;
+    margin-right: 0;
+}
+/*.............Dropdown Menu............*/
+
+.dropdown-menu{
+    padding: 0;
+    width:100%;
+    margin-top: 2px;
+}
+.dropdown-menu h3{
+    font-size: 12px;
+    text-align: center;
+    color: #003399;
+    /*text-transform: uppercase;*/
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.dropdown-menu li a{
+    padding: 10px 25px;
+}
+
+/*............Resume Content CSS............*/
+.resume_content{
+    padding: 0;
+    border-radius: 5px;
+    background: #f7f7f7;
+}
+.resume_heading{
+    padding: 0;
+    background: #0000a8;
+    color: #fff;
+}
+.resume_heading h3{
+    font-size: 18px;
+}
+.profile_section{
+    background: #fff;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+.profile_logo{
+    padding: 0;
+    margin: 0;
+}
+.profile_logo img{
+    margin: 20px 20px 20px 0;
+    width: 160px;
+    height: 180px;
+/*    box-shadow: 10px 10px 5px #888888;*/
+    border: 5px solid #f3f3f3;
+}
+
+.profile_info{
+    padding: 20px 30px;
+    margin: 0;
+}
+.profile_info h3{
+    font-size: 20px;
+   
+}
+.profile_info p{
+    line-height: 1.8;
+}
+.profile_info p a{
+    color: #e74c3c;
+}
+.profile_info p a:hover{
+    color: #1BBD36;
+    text-decoration: none;
+}
+.career_objective{
+    background: #fff;
+    overflow: hidden;
+}
+.m_top_20{
+    margin-top: 20px;
+}
+.career_objective i{
+    /*font-size: 30px;*/
+    color: #00a651;
+    margin-right: 10px;
+}
+.career_objective h3{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 30px;
+}
+.career_objective p{
+    text-align: justify;
+}
+.education_qualification{
+    background: #fff;
+}
+.education_qualification h3{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+.education_qualification .table{
+    text-align: justify;
+}
+.education_qualification i{
+    color: #00a651;
+    margin-right: 10px;
+}
+.career_info{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 30px;
+}
+.education_table{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 40px;
+}
+.academic_qualification{
+    background: #fff;
+}
+.academic_qualification h3{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+.academic_qualification .table{
+    text-align: justify;
+}
+.academic_qualification i{
+    color: #00a651;
+    margin-right: 10px;
+}
+.academic_table{
+    padding: 0 40px 40px 40px;
+}
+.live_project_wrap{
+    background: #fff;
+}
+.live_project_info{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 40px;
+}
+.live_project_info p a{
+    color: #0072bc;
+}
+.live_project_info p a:hover{
+    text-decoration: underline;
+}
+.live_project_wrap h3{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+.live_project_wrap i{
+    color: #00a651;
+    margin-right: 10px;
+}
+.work_history_wrep{
+    background: #fff;
+}
+.experience_info{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 40px;
+    
+}
+.work_history_wrep h3{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+.work_history_wrep i{
+    color: #00a651;
+    margin-right: 10px;
+}
+.work_history_wrep h3{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+.experience_info ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.experience_info span{
+    display: block;
+    font-weight: 400;
+    margin-top: 5px;
+    line-height: 22px;
+}
+.experience_info ul li{
+    margin-bottom: 55px;
+    position: relative;
+}
+.experience_info ul li h4{
+    
+}
+.experience_info ul li:after{
+    position: absolute;
+    content: "";
+    bottom: -25px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #f1f1f1;
+}
+.experience_info ul li p{
+    margin-top: 10px;
+}
+.experience_info ul li:last-child{
+    margin-bottom: 0;
+}
+.experience_info ul li:last-child:after{
+    display: none;
+}
+/*...........Personal Info..........*/
+
+.personal_info_wrap{
+    background: #fff;
+}
+.personal_info_wrap h3{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+.personal_info_wrap i{
+    color: #00a651;
+    margin-right: 10px;
+}
+.personal_info{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 40px;
+}
+.personal_info .address{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.personal_info .address li{
+    overflow: hidden;
+    line-height: 30px;
+    color: #2d3038;
+    font-size: 14px;
+    /*position: relative;*/
+}
+/*.personal_info .address li:after{
+    position: absolute;
+    content: "";
+    bottom: -25px;
+    left: 0;
+    width: 100%;
+    height: 1px;
+    background-color: #f1f1f1;
+}*/
+.personal_info .address li h5{
+    float: left;
+    margin-top: 5px;
+    min-width: 180px;
+    font-weight: 600;
+    font-size: 14px;
+}
+.personal_info .address li span{
+    margin-right: 30px;
+}
+.expertise_wrap{
+    background: #fff;
+}
+.expertise_wrap h3{
+    font-size: 18px;
+    color: #000;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+.expertise_wrap i{
+    color: #00a651;
+    margin-right: 10px;
+}
+.expertise_info{
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-bottom: 40px;
+}
+.email_button{
+    float: left;
+}
+.download_button{
+    float: right;
+}
+.user_profile_wrap{
+    background: #fff;
+}
+/*..........User Profile CSS..........*/
+.user_profile_wrap{
+    padding: 0;
+}
+.user_profile_logo{
+    padding: 20px 0 20px 20px;
+    margin: 0;
+}
+.user_profile_logo img{
+    width:70px;
+    height: 70px;
+    border: 2px solid #f3f3f3;
+}
+.user_profile_logo a{
+    font-size: 12px;
+    color: #0072bc;
+}
+.user_profile_logo a:hover{
+    color: #00a651;
+    text-decoration: underline;
+}
+.user_profile_info h3{
+    font-size: 20px;
+    color: #00a651;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.user_profile_info p{
+    margin-left: 30px;
+    font-size: 13px;
+    color: #b9b9b9;
+}
+.profile_navbar nav{
+    padding: 0;
+}
+.profile_navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid #f3f3f3;
+}
+.profile_navbar ul li{
+    float: left;
+    border-right: 1px solid #f3f3f3;
+}
+.profile_navbar ul li:last-child{
+    border-right: 0;
+}
+.profile_navbar ul li a{
+    color: #b9b9b9;
+    font-family: 'Ubuntu', sans-serif;
+}
+.profile_navbar ul li a:hover{
+    color: #00a651;
+}
+
+.profile_navbar ul li.active a{
+    color: #00a651;
+}
+.profile_navbar ul li.active a:hover{
+    color: #00a651;
+    background: #fff;
+}
+/*.......User profile sidebar CSS............*/
+
+.aside_top .home_link{
+    padding: 15px;
+    background: #070707;
+    opacity: .7;
+    border-left: 5px solid #00a651;
+}
+.aside_top .home_link a{
+    color: #fff;
+    text-transform: uppercase;
+}
+.aside_top{
+    background: #fff;
+    margin-top: 0;
+    padding-top: 0;
+}
+.resume{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.aside_top h3{
+    padding: 10px 10px 20px 15px;
+    margin: 0;
+    color: #1BBD36;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.aside_top ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.aside_top ul li:hover{
+    border-left: 3px solid #00a651;
+    
+}
+.aside_top ul li a{
+    padding: 8px 15px;
+    font-size: 13px;
+}
+.aside_top ul li a:hover{
+    color: #00a651;
+}
+.side_adds{
+    margin: 0;
+    padding: 0;
+}
+.side_adds{
+    background: #fff;
+}
+.side_adds img{
+    width: 100%;
+}
+.m_top_15{
+    margin-top: 15px;
+}
+.b_redius_5{
+    border-radius: 5px;
+}
+/*................ Blog right sidebar CSS..........*/
+
+.sidbar_headding .blog-category{
+    margin-bottom: 40px;
+}
+.right_sidebar .sidbar_headding h3{
+    color: #1BBD36;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.sidbar_headding .blog-category{
+    padding: 0;
+}
+.blog-category .nav li a{
+    color: #0072bc;
+    padding: 5px 10px;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-bottom: 1px solid #f3f3f3;
+}
+.sidbar_headding .popular-articles{
+    padding: 0;
+    margin-bottom: 40px;
+}
+.sidbar_headding .popular-articles .nav{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.sidbar_headding .popular-articles .nav li a{
+    color: #0072bc;
+    font-size: 14px;
+    padding: 5px 10px;
+    margin-bottom: 5px;
+}
+.sidbar_headding .popular-articles .nav li a:hover{
+    color: #e74c3c;
+    background: #fff;
+}
+.sidbar_headding .most-recent{
+    padding: 0;
+    margin-bottom: 40px;
+}
+#recent_blog a p{
+    color: #e74c3c;
+    font-size: 16px;
+}
+#recent_blog a p:hover{
+    color: #00a651;
+}
+#recent_blog .entry-meta a{
+    color: #00a651;
+}
+.contact_wrap{
+    /*background: #fff;*/
+    padding: 0;
+}
+/*..........About pages CSS...........*/
+
+.about_wrap{
+    background: #fff;
+    padding: 0;
+    border-radius: 5px;
+}
+.about_wrap h3{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.our_team_wrap{
+    padding: 0;
+    background: #f7f7f7;
+    
+}
+.entry-meta span a{
+    font-size: 11px;
+}
